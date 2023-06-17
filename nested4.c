@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Descending order 54321 values on each row pattern
 
 int main(void)
 {
