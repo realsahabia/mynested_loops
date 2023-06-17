@@ -1,4 +1,5 @@
 #include <stdio.h>
+// same values on each row
 
 int main(void)
 {
