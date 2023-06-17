@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Same ABDCD on each row pattern
 int main(void)
 {
     int i, j;
