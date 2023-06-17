@@ -1,1 +1,1 @@
-My practical works on using C nested loops to create different patterns
+My practical works on using C nested for loop to create different patterns
