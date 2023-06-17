@@ -1,11 +1,7 @@
 #include <stdio.h>
-/*
-A 
-A B 
-A B C 
-A B C D 
-A B C D E
-*/
+
+// Descending order capital letter triangle pattern
+
 int main(void)
 {
     int i, j;
