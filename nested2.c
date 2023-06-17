@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Diferent value on rach row
 int main(void)
 {
     int i, j;
